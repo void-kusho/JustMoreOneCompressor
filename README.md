@@ -5,9 +5,10 @@ The purpose for this software is built something with real skills on my own.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
 [Helix Editor](https://helix-editor.com/)
+
 [cland](https://clangd.llvm.org/)
+
 [gcc](https://gcc.gnu.org/) 
 
 # About C++
